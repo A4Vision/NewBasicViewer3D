@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>move_backward.png</file>
+    <file>move_down.png</file>
+    <file>move_forward.png</file>
+    <file>move_left.png</file>
+    <file>move_right.png</file>
+    <file>move_up.png</file>
+    <file>rotate_down.png</file>
+    <file>rotate_left.png</file>
+    <file>rotate_right.png</file>
+    <file>rotate_up.png</file>
+    <file>spin_left.png</file>
+    <file>spin_right.png</file>
+  </qresource>
+</RCC>
